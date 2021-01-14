@@ -1,0 +1,3 @@
+/media/muhmd/New Volume/Projects/C++/Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/muhmd/New Volume/Projects/C++/Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/muhmd/New Volume/Projects/C++/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir

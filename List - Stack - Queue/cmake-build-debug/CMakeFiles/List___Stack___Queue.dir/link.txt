@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/List___Stack___Queue.dir/main.cpp.o  -o List___Stack___Queue 

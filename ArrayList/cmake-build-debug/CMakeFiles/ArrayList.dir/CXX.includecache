@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/ArrayList/arrayList.h
+iostream
+-
+
+/media/muhmd/New Volume/Projects/C++/ArrayList/main.cpp
+iostream
+-
+arrayList.h
+/media/muhmd/New Volume/Projects/C++/ArrayList/arrayList.h
+

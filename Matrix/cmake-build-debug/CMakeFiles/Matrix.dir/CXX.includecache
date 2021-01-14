@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/Matrix/MyMatrix.cpp
+MyMatrix.h
+/media/muhmd/New Volume/Projects/C++/Matrix/MyMatrix.h
+
+/media/muhmd/New Volume/Projects/C++/Matrix/MyMatrix.h
+iostream
+/media/muhmd/New Volume/Projects/C++/Matrix/iostream
+
+/media/muhmd/New Volume/Projects/C++/Matrix/main.cpp
+iostream
+-
+MyMatrix.cpp
+/media/muhmd/New Volume/Projects/C++/Matrix/MyMatrix.cpp
+

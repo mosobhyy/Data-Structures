@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/C++/LinkedList/LinkedList.h
+
+E:/Projects/C++/LinkedList/main.cpp
+iostream
+-
+LinkedList.h
+E:/Projects/C++/LinkedList/LinkedList.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Binary_Tree.dir/main.cpp.o CMakeFiles/Binary_Tree.dir/Tree.cpp.o  -o Binary_Tree 

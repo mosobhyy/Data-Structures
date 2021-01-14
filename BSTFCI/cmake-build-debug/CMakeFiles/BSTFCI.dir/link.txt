@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BSTFCI.dir/main.cpp.o CMakeFiles/BSTFCI.dir/BSTFCI.cpp.o CMakeFiles/BSTFCI.dir/BSTNode.cpp.o  -o BSTFCI 

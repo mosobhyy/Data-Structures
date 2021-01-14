@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/Binary Tree/Tree.h
+iostream
+-
+vector
+-
+
+/media/muhmd/New Volume/Projects/C++/Binary Tree/main.cpp
+iostream
+-
+Tree.h
+/media/muhmd/New Volume/Projects/C++/Binary Tree/Tree.h
+
